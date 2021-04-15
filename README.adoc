@@ -1,0 +1,3 @@
+= MMBase RRMCI
+
+Remote access implementation of MMBase Bridge Interfaces
